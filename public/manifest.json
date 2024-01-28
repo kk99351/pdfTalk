@@ -1,0 +1,20 @@
+{
+  "short_name": "LocalAI Chat",
+  "name": "Chat frontend for LocalAI",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "64x76 32x38 24x29 16x19"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "128x151"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
